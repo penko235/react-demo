@@ -1,0 +1,8 @@
+.link {
+    text-decoration: none;
+}
+
+.card:hover {
+    background: #000;
+    color: #fff;
+}
